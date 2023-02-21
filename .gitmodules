@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/maalievaa/maalievaa.github.io.git
+	branch = main
