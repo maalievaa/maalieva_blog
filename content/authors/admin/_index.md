@@ -1,47 +1,39 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Алиева Милена
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Милена
+last_name: 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Математика
+  - Программирование
+  - Волонтёрская деятельность
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - 1 курс бакалавриата РУДН
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Алиева Милена - студентка 1 курса бакалавриата Российского университета дружбы народов. Изучаю программирование, основы математики и иностранный язык. Также увлекаюсь волонтёрской деятельностью в своём родном городе, помогаю в организации различных мероприятий.
+
+
