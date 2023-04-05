@@ -85,7 +85,7 @@ sections:
           company: ''
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Тверь
           date_start: '2011-09-01'
           date_end: '2022-06-01'
           description: ''
@@ -108,8 +108,8 @@ sections:
           date_end: ''
           date_start: '2021-10-03'
           description: ''
-          organization: Coursera
-          organization_url: Благодарность
+          organization: Благодарность
+          organization_url: ''
           title: Форум активистов добровольческого движения Тверской области
           url: ''
     design:
